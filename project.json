@@ -1,0 +1,9 @@
+{
+  "name": "ec2-operating-hours",
+  "description": "ec2 operating hours service",
+  "memory": 128,
+  "timeout": 5,
+  "environment": {},
+  "defaultEnvironment": "dev",
+  "role": "arn:aws:iam::XXXX:role/ec2-operating-hours_lambda_function"
+}
